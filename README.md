@@ -1,4 +1,4 @@
-# Matrix Text Simulation
+# Matrix Digital Rain Simulation
 
 Welcome to the Matrix Text Simulation repository! This project is a C# console application that mimics the iconic digital rain effect seen in The Matrix film series. The application creates a visual spectacle in your console, with glyphs raining down the screen in a manner reminiscent of the film's famous visual effect.
 
@@ -6,15 +6,12 @@ Welcome to the Matrix Text Simulation repository! This project is a C# console a
 
 ## Overview
 
-The Matrix Text Simulation is designed to run in a console window, utilizing C# and the .NET framework to create a dynamic and visually appealing simulation of the Matrix's digital rain. This project serves as both a fun homage to the film and a practical exercise in C# programming, involving concepts like multi-threading, console graphics, and character manipulation.
+The Digital Rain Simulation is designed to run in a console window, utilizing C# and the .NET framework to create a dynamic and visually appealing simulation of the Matrix's digital rain. This project serves as both as a homage to the film and a practical exercise in C# programming.
 
 ## Features
 
 - **Digital Rain Effect**: Creates a captivating display of Matrix-like glyphs flowing down the console screen.
 - **Customizable Glyphs**: Allows for easy customization of the characters used in the digital rain, enabling you to create various visual styles.
-- **Variable Speeds**: Each column of glyphs falls at a random speed, enhancing the simulation's dynamic and unpredictable nature.
-- **Color Variation**: Implements color variations to more closely resemble the green-tinted digital rain seen in The Matrix.
-- **Resizable Console Window**: Adapts to the size of the console window, ensuring that the digital rain effect fills the entire screen area.
 
 ## Getting Started
 
@@ -25,7 +22,7 @@ dotnet build
 dotnet run
 ```
 
-Alternatively, if you're using Visual Studio, you can open the `.csproj` file and run the application directly within the IDE.
+Alternatively, you can open the `.csproj` file and run the application directly within the IDE.
 
 You can also run the compiled .exe under bin\Debug.
 
