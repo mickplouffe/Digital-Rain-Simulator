@@ -1,5 +1,7 @@
 # Matrix Digital Rain Simulation
 
+![Banner](GitHubBanner.png)
+
 Welcome to the Matrix Digital Rain Simulation repository! This project is a C# console application that mimics the iconic digital rain effect seen in The Matrix film series. The application creates a visual spectacle in your console, with glyphs raining down the screen in a manner reminiscent of the film's famous visual effect.
 
 ## Overview
