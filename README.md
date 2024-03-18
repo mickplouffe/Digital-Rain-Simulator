@@ -74,4 +74,4 @@ This Matrix Digital Rain Simulation is made available under the MIT License. It 
 
 
 ## Skills used
-Tags: #CS, #Console, #Art
+Tags: #:CS, #:Console, #:Art
